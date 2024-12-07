@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl when appending elements to a list. The `concat` command is misused, leading to unexpected behavior. The solution showcases the correct usage of the `append` command for efficient list modification.
